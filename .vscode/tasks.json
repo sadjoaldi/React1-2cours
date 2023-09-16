@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "2",
+			"problemMatcher": [],
+			"label": "npm: start - 2",
+			"detail": "react-scripts start",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
